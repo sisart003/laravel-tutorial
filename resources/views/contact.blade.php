@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:heading>
-        Home Page
+        Contact Page
     </x-slot:heading>
 </x-layout>
 
